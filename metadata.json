@@ -1,0 +1,6 @@
+{
+  "name": "แบบประเมินความพึงพอใจโครงการเรียนรู้นอกห้องเรียน ม.2",
+  "description": "ระบบประเมินความพึงพอใจโครงการเรียนรู้นอกห้องเรียน ชั้นมัธยมศึกษาปีที่ 2 พร้อมแดชบอร์ดวิเคราะห์ผล บันทึกข้อมูลลง Google Sheets และส่งออกรายงาน PDF",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
